@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Nje-cy" format="2">
+  <advance width="922"/>
+  <unicode hex="040A"/>
+  <outline>
+    <contour>
+      <point x="105" y="0" type="line"/>
+      <point x="105" y="695" type="line"/>
+      <point x="189" y="695" type="line"/>
+      <point x="186" y="363" type="line"/>
+      <point x="148" y="391" type="line"/>
+      <point x="482" y="391" type="line"/>
+      <point x="483" y="317" type="line"/>
+      <point x="148" y="317" type="line"/>
+      <point x="186" y="345" type="line"/>
+      <point x="189" y="0" type="line"/>
+    </contour>
+    <component base="Softsign-cy" xOffset="330"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>H</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018/04/28 10:00:17</string>
+    </dict>
+  </lib>
+</glyph>

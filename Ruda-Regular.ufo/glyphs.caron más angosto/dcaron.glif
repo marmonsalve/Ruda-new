@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dcaron" format="2">
+  <advance width="581"/>
+  <unicode hex="010F"/>
+  <anchor x="254" y="582" name="_top"/>
+  <anchor x="254" y="760" name="top"/>
+  <outline>
+    <contour>
+      <point x="191" y="663" type="line"/>
+      <point x="318" y="663" type="line"/>
+      <point x="253" y="638" type="line"/>
+      <point x="419" y="797" type="line"/>
+      <point x="416" y="743" type="line"/>
+      <point x="337" y="835" type="line"/>
+      <point x="394" y="826" type="line"/>
+      <point x="231" y="715" type="line"/>
+      <point x="296" y="735" type="line"/>
+      <point x="213" y="735" type="line"/>
+      <point x="278" y="715" type="line"/>
+      <point x="115" y="826" type="line"/>
+      <point x="172" y="835" type="line"/>
+      <point x="93" y="743" type="line"/>
+      <point x="90" y="797" type="line"/>
+      <point x="256" y="638" type="line"/>
+    </contour>
+    <component base="d"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018/04/28 02:11:22</string>
+    </dict>
+  </lib>
+</glyph>

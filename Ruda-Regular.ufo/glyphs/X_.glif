@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="X" format="2">
+  <advance width="536"/>
+  <unicode hex="0058"/>
+  <anchor x="268" y="0" name="bottom"/>
+  <anchor x="268" y="695" name="top"/>
+  <outline>
+    <contour>
+      <point x="16" y="0" type="line"/>
+      <point x="115" y="0" type="line"/>
+      <point x="280" y="333" type="line"/>
+      <point x="227" y="300" type="line"/>
+      <point x="291" y="300" type="line"/>
+      <point x="244" y="333" type="line"/>
+      <point x="421" y="0" type="line"/>
+      <point x="520" y="0" type="line"/>
+      <point x="299" y="378" type="line"/>
+      <point x="293" y="338" type="line"/>
+      <point x="505" y="695" type="line"/>
+      <point x="411" y="695" type="line"/>
+      <point x="240" y="383" type="line"/>
+      <point x="304" y="413" type="line"/>
+      <point x="222" y="413" type="line"/>
+      <point x="293" y="382" type="line"/>
+      <point x="124" y="695" type="line"/>
+      <point x="30" y="695" type="line"/>
+      <point x="239" y="338" type="line"/>
+      <point x="230" y="389" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018/04/28 10:29:43</string>
+    </dict>
+  </lib>
+</glyph>

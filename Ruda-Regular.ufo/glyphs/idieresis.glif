@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="idieresis" format="2">
+  <advance width="295"/>
+  <unicode hex="00EF"/>
+  <outline>
+    <contour>
+      <point x="7" y="684" type="line"/>
+      <point x="106" y="684" type="line"/>
+      <point x="106" y="766" type="line"/>
+      <point x="7" y="766" type="line"/>
+    </contour>
+    <contour>
+      <point x="190" y="684" type="line"/>
+      <point x="288" y="684" type="line"/>
+      <point x="288" y="766" type="line"/>
+      <point x="190" y="766" type="line"/>
+    </contour>
+    <component base="dotlessi"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018/04/27 22:54:01</string>
+    </dict>
+  </lib>
+</glyph>

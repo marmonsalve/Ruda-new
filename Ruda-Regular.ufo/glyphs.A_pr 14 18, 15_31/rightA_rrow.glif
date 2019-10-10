@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="rightArrow" format="2">
+  <advance width="816"/>
+  <unicode hex="2192"/>
+  <outline>
+    <contour>
+      <point x="593" y="695" type="line"/>
+      <point x="605" y="87" type="line"/>
+      <point x="621" y="116" type="line"/>
+      <point x="185" y="703" type="line"/>
+      <point x="106" y="640" type="line"/>
+      <point x="540" y="49" type="line"/>
+      <point x="583" y="88" type="line"/>
+      <point x="105" y="84" type="line"/>
+      <point x="105" y="0" type="line"/>
+      <point x="677" y="0" type="line"/>
+      <point x="677" y="695" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>H</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018/04/27 22:41:29</string>
+    </dict>
+  </lib>
+</glyph>

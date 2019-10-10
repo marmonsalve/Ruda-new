@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="em-cy" format="2">
+  <advance width="738"/>
+  <unicode hex="043C"/>
+  <outline>
+    <contour>
+      <point x="84" y="0" type="line"/>
+      <point x="168" y="0" type="line"/>
+      <point x="177" y="536" type="line"/>
+      <point x="138" y="498" type="line"/>
+      <point x="220" y="498" type="line"/>
+      <point x="170" y="534" type="line"/>
+      <point x="330" y="62" type="line"/>
+      <point x="281" y="98" type="line"/>
+      <point x="454" y="98" type="line"/>
+      <point x="407" y="62" type="line"/>
+      <point x="568" y="534" type="line"/>
+      <point x="517" y="498" type="line"/>
+      <point x="598" y="498" type="line"/>
+      <point x="561" y="536" type="line"/>
+      <point x="570" y="0" type="line"/>
+      <point x="654" y="0" type="line"/>
+      <point x="630" y="582" type="line"/>
+      <point x="509" y="582" type="line"/>
+      <point x="359" y="141" type="line"/>
+      <point x="409" y="177" type="line"/>
+      <point x="328" y="177" type="line"/>
+      <point x="378" y="141" type="line"/>
+      <point x="229" y="582" type="line"/>
+      <point x="108" y="582" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018/04/28 02:47:36</string>
+      <key>public.markColor</key>
+      <string>0.97,1,0,1</string>
+    </dict>
+  </lib>
+</glyph>

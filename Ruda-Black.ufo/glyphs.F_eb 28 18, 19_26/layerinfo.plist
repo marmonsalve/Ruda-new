@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+  <dict>
+    <key>color</key>
+    <string>0,1,0.25,0.7</string>
+    <key>lib</key>
+    <dict>
+      <key>com.schriftgestaltung.layerId</key>
+      <string>8CA7A7B4-7A00-4582-9C69-3765F3ECEFB5</string>
+      <key>com.schriftgestaltung.layerOrderInGlyph.Adieresis</key>
+      <integer>2</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.Atilde</key>
+      <integer>2</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.Eacute</key>
+      <integer>2</integer>
+    </dict>
+  </dict>
+</plist>

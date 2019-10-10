@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Hardsign-cy" format="2">
+  <advance width="639"/>
+  <unicode hex="042A"/>
+  <outline>
+    <contour>
+      <point x="15" y="620" type="line"/>
+      <point x="15" y="695" type="line"/>
+      <point x="241" y="695" type="line"/>
+      <point x="168" y="623" type="line"/>
+    </contour>
+    <component base="Softsign-cy" xOffset="52"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>=b-15</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018/04/28 09:58:36</string>
+      <key>public.markColor</key>
+      <string>0.5,0.09,0.79,1</string>
+    </dict>
+  </lib>
+</glyph>

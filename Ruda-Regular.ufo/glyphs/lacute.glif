@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="lacute" format="2">
+  <advance width="263"/>
+  <unicode hex="013A"/>
+  <outline>
+    <component base="acutecomb.case" xOffset="15" yOffset="-83"/>
+    <component base="dotlessi"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018/04/28 01:05:47</string>
+    </dict>
+  </lib>
+</glyph>

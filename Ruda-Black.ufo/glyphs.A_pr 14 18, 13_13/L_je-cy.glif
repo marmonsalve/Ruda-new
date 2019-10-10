@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Lje-cy" format="2">
+  <advance width="934"/>
+  <unicode hex="0409"/>
+  <outline>
+    <contour>
+      <point x="22" y="-14" type="line"/>
+      <point x="68" y="-14"/>
+      <point x="107" y="3"/>
+      <point x="130" y="26" type="curve" smooth="yes"/>
+      <point x="173" y="69"/>
+      <point x="178" y="139"/>
+      <point x="184" y="222" type="curve" smooth="yes"/>
+      <point x="221" y="695" type="line"/>
+      <point x="140" y="695" type="line"/>
+      <point x="107" y="224" type="line" smooth="yes"/>
+      <point x="98" y="99"/>
+      <point x="88" y="78"/>
+      <point x="49" y="64" type="curve" smooth="yes"/>
+      <point x="38" y="60"/>
+      <point x="23" y="57"/>
+      <point x="6" y="54" type="curve"/>
+    </contour>
+    <component base="Ge-cy" xScale="-1" xOffset="587"/>
+    <component base="Softsign-cy" xOffset="299"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>b</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018/04/28 10:08:49</string>
+      <key>public.markColor</key>
+      <string>0.97,1,0,1</string>
+    </dict>
+  </lib>
+</glyph>

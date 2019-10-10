@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Zhe-cy" format="2">
+  <advance width="566"/>
+  <unicode hex="0416"/>
+  <outline>
+    <contour>
+      <point x="99" y="353" type="line"/>
+      <point x="-165" y="696" type="line"/>
+      <point x="-263" y="696" type="line"/>
+      <point x="7" y="358" type="line"/>
+      <point x="7" y="352" type="line"/>
+      <point x="-289" y="1" type="line"/>
+      <point x="-182" y="1" type="line"/>
+    </contour>
+    <contour>
+      <point x="100" y="1" type="line"/>
+      <point x="185" y="1" type="line"/>
+      <point x="180" y="354" type="line"/>
+      <point x="185" y="696" type="line"/>
+      <point x="100" y="696" type="line"/>
+      <point x="105" y="354" type="line"/>
+    </contour>
+    <contour>
+      <point x="185" y="352" type="line"/>
+      <point x="466" y="0" type="line"/>
+      <point x="573" y="0" type="line"/>
+      <point x="277" y="351" type="line"/>
+      <point x="277" y="357" type="line"/>
+      <point x="547" y="695" type="line"/>
+      <point x="449" y="695" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>X</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>X</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018/04/28 10:39:37</string>
+    </dict>
+  </lib>
+</glyph>

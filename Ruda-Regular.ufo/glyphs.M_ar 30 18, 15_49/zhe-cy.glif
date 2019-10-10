@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="zhe-cy" format="2">
+  <advance width="741"/>
+  <unicode hex="0436"/>
+  <outline>
+    <contour>
+      <point x="642" y="0" type="line"/>
+      <point x="750" y="0" type="line"/>
+      <point x="500" y="289" type="line"/>
+      <point x="500" y="294" type="line"/>
+      <point x="735" y="582" type="line"/>
+      <point x="628" y="582" type="line"/>
+      <point x="409" y="293" type="line"/>
+    </contour>
+    <contour>
+      <point x="-9" y="0" type="line"/>
+      <point x="99" y="0" type="line"/>
+      <point x="332" y="293" type="line"/>
+      <point x="113" y="582" type="line"/>
+      <point x="6" y="582" type="line"/>
+      <point x="241" y="294" type="line"/>
+      <point x="241" y="289" type="line"/>
+    </contour>
+    <contour>
+      <point x="329" y="0" type="line"/>
+      <point x="412" y="0" type="line"/>
+      <point x="407" y="293" type="line"/>
+      <point x="412" y="582" type="line"/>
+      <point x="329" y="582" type="line"/>
+      <point x="334" y="293" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>x</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>x</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018/04/28 09:41:14</string>
+      <key>public.markColor</key>
+      <string>0.97,1,0,1</string>
+    </dict>
+  </lib>
+</glyph>

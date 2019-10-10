@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Sha-cy" format="2">
+  <advance width="1039"/>
+  <unicode hex="0428"/>
+  <outline>
+    <contour>
+      <point x="83" y="0" type="line"/>
+      <point x="956" y="0" type="line"/>
+      <point x="956" y="703" type="line"/>
+      <point x="799" y="703" type="line"/>
+      <point x="804" y="358" type="line"/>
+      <point x="804" y="65" type="line"/>
+      <point x="874" y="135" type="line"/>
+      <point x="526" y="135" type="line"/>
+      <point x="597" y="65" type="line"/>
+      <point x="593" y="358" type="line"/>
+      <point x="598" y="703" type="line"/>
+      <point x="441" y="703" type="line"/>
+      <point x="446" y="358" type="line"/>
+      <point x="442" y="65" type="line"/>
+      <point x="513" y="135" type="line"/>
+      <point x="165" y="135" type="line"/>
+      <point x="235" y="65" type="line"/>
+      <point x="235" y="358" type="line"/>
+      <point x="240" y="703" type="line"/>
+      <point x="83" y="703" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>H</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>H</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018/04/28 09:58:00</string>
+    </dict>
+  </lib>
+</glyph>
