@@ -2,10 +2,13 @@
 <glyph name="x" format="2">
   <advance width="582"/>
   <unicode hex="0078"/>
-  <anchor x="291" y="0" name="bottom"/>
-  <anchor x="291" y="588" name="top"/>
   <outline>
     <contour>
+      <point x="4" y="0" type="line"/>
+      <point x="170" y="0" type="line"/>
+      <point x="284" y="218" type="line"/>
+      <point x="290" y="218" type="line"/>
+      <point x="404" y="0" type="line"/>
       <point x="570" y="0" type="line"/>
       <point x="379" y="309" type="line"/>
       <point x="559" y="588" type="line"/>
@@ -15,11 +18,6 @@
       <point x="176" y="588" type="line"/>
       <point x="15" y="588" type="line"/>
       <point x="195" y="309" type="line"/>
-      <point x="4" y="0" type="line"/>
-      <point x="170" y="0" type="line"/>
-      <point x="284" y="218" type="line"/>
-      <point x="290" y="218" type="line"/>
-      <point x="404" y="0" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -27,7 +25,7 @@
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
       <string>2018/04/28 09:38:28</string>
       <key>public.markColor</key>
-      <string>0.97,1,0,1</string>
+      <string>0.3216,0.6784,0.4118,1</string>
     </dict>
   </lib>
 </glyph>

@@ -1,9 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="commaaccentcomb" format="2">
   <unicode hex="0326"/>
-  <guideline x="130" y="197" angle="90"/>
-  <anchor x="85" y="0" name="_bottom"/>
-  <anchor x="65" y="-233" name="bottom"/>
+  <guideline x="130" y="197" angle="90" identifier="v1cTBu732d"/>
   <outline>
     <contour>
       <point x="22" y="-233" type="line"/>

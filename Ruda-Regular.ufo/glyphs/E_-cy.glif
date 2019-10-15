@@ -2,8 +2,6 @@
 <glyph name="E-cy" format="2">
   <advance width="583"/>
   <unicode hex="0404"/>
-  <anchor x="292" y="0" name="bottom"/>
-  <anchor x="324" y="695" name="top"/>
   <outline>
     <contour>
       <point x="148" y="317" type="line"/>

@@ -2,8 +2,6 @@
 <glyph name="izhitsa-cy" format="2">
   <advance width="517"/>
   <unicode hex="0475"/>
-  <anchor x="238" y="0" name="bottom"/>
-  <anchor x="238" y="582" name="top"/>
   <outline>
     <contour>
       <point x="510" y="530" type="curve"/>

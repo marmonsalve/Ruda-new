@@ -3,8 +3,17 @@
   <advance width="295"/>
   <unicode hex="01D0"/>
   <outline>
+    <contour>
+      <point x="121" y="663" type="line"/>
+      <point x="172" y="663" type="line"/>
+      <point x="283" y="772" type="line"/>
+      <point x="254" y="806" type="line"/>
+      <point x="150" y="735" type="line"/>
+      <point x="143" y="735" type="line"/>
+      <point x="39" y="806" type="line"/>
+      <point x="10" y="772" type="line"/>
+    </contour>
     <component base="dotlessi"/>
-    <component base="caron"/>
   </outline>
   <lib>
     <dict>

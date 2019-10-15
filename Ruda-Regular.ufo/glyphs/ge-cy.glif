@@ -2,8 +2,6 @@
 <glyph name="ge-cy" format="2">
   <advance width="414"/>
   <unicode hex="0433"/>
-  <anchor x="394" y="0" name="bottomright"/>
-  <anchor x="238" y="582" name="top"/>
   <outline>
     <contour>
       <point x="79" y="0" type="line"/>
@@ -12,10 +10,10 @@
       <point x="79" y="582" type="line"/>
     </contour>
     <contour>
+      <point x="119" y="582" type="line"/>
+      <point x="119" y="511" type="line"/>
       <point x="389" y="509" type="line"/>
       <point x="389" y="582" type="line"/>
-      <point x="79" y="582" type="line"/>
-      <point x="79" y="511" type="line"/>
     </contour>
   </outline>
   <lib>

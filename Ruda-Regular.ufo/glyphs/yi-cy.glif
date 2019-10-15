@@ -2,7 +2,6 @@
 <glyph name="yi-cy" format="2">
   <advance width="295"/>
   <unicode hex="0457"/>
-  <anchor x="148" y="0" name="bottom"/>
   <outline>
     <component base="dotlessi"/>
     <component base="dieresiscomb" xOffset="5"/>

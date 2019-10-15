@@ -1,8 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="macroncomb.case" format="2">
-  <guideline x="540" y="990" angle="0"/>
-  <anchor x="196" y="703" name="_top"/>
-  <anchor x="196" y="860" name="top"/>
+  <guideline x="540" y="990" angle="0" identifier="CY8Hu7CUHA"/>
   <outline>
     <contour>
       <point x="0" y="775" type="line"/>

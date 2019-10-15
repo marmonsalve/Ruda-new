@@ -3,7 +3,7 @@
   <advance width="611"/>
   <unicode hex="0451"/>
   <outline>
-    <component base="e"/>
+    <component base="ie-cy"/>
     <component base="dieresiscomb" xOffset="129"/>
   </outline>
   <lib>

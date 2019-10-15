@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Ohorndotbelow" format="2">
+  <unicode hex="1EE2"/>
+  <outline>
+    <contour>
+      <point x="433" y="-48" type="line"/>
+      <point x="275" y="-48" type="line"/>
+      <point x="275" y="-156" type="line"/>
+      <point x="433" y="-156" type="line"/>
+    </contour>
+  </outline>
+</glyph>

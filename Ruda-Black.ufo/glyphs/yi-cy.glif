@@ -1,11 +1,10 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="yi-cy" format="2">
-  <advance width="303"/>
+  <advance width="311"/>
   <unicode hex="0457"/>
-  <anchor x="148" y="0" name="bottom"/>
   <outline>
     <component base="dotlessi"/>
-    <component base="dieresiscomb" xOffset="-39"/>
+    <component base="dieresiscomb" xOffset="-30"/>
   </outline>
   <lib>
     <dict>

@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dcircumflexbelow" format="2">
+  <advance width="600"/>
+  <unicode hex="1E13"/>
+  <outline>
+    <component base="circumflex" xOffset="162" yOffset="-855"/>
+    <component base="d"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018/04/29 01:32:54</string>
+    </dict>
+  </lib>
+</glyph>

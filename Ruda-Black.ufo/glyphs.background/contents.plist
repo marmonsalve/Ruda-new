@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+  <dict>
+    <key>Be-cy</key>
+    <string>B_e-cy.glif</string>
+    <key>De-cy</key>
+    <string>D_e-cy.glif</string>
+    <key>Ii-cy</key>
+    <string>I_i-cy.glif</string>
+    <key>Lje-cy</key>
+    <string>L_je-cy.glif</string>
+    <key>Ohorndotbelow</key>
+    <string>O_horndotbelow.glif</string>
+    <key>U-cy</key>
+    <string>U_-cy.glif</string>
+    <key>commaturnedabovecomb</key>
+    <string>commaturnedabovecomb.glif</string>
+    <key>de-cy</key>
+    <string>de-cy.glif</string>
+    <key>horncomb.case</key>
+    <string>horncomb.case.glif</string>
+    <key>ihookabove</key>
+    <string>ihookabove.glif</string>
+    <key>imacron</key>
+    <string>imacron.glif</string>
+    <key>leftArrow</key>
+    <string>leftA_rrow.glif</string>
+    <key>rightArrow</key>
+    <string>rightA_rrow.glif</string>
+    <key>shcha-cy</key>
+    <string>shcha-cy.glif</string>
+    <key>ustraitstroke-cy</key>
+    <string>ustraitstroke-cy.glif</string>
+  </dict>
+</plist>

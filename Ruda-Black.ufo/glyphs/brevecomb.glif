@@ -1,8 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="brevecomb" format="2">
   <unicode hex="0306"/>
-  <anchor x="194" y="588" name="_top"/>
-  <anchor x="194" y="765" name="top"/>
   <outline>
     <component base="breve"/>
   </outline>

@@ -4,12 +4,15 @@
   <unicode hex="0490"/>
   <outline>
     <contour>
-      <point x="335" y="571" type="line"/>
-      <point x="388" y="817" type="line"/>
-      <point x="505" y="817" type="line"/>
+      <point x="83" y="0" type="line"/>
+      <point x="240" y="0" type="line"/>
+      <point x="236" y="572" type="line"/>
       <point x="505" y="569" type="line"/>
+      <point x="505" y="817" type="line"/>
+      <point x="388" y="817" type="line"/>
+      <point x="363" y="703" type="line"/>
+      <point x="83" y="703" type="line"/>
     </contour>
-    <component base="Ge-cy"/>
   </outline>
   <lib>
     <dict>

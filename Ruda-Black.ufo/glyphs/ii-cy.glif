@@ -2,10 +2,13 @@
 <glyph name="ii-cy" format="2">
   <advance width="720"/>
   <unicode hex="0438"/>
-  <anchor x="357" y="0" name="bottom"/>
-  <anchor x="357" y="703" name="top"/>
   <outline>
     <contour>
+      <point x="86" y="0" type="line"/>
+      <point x="276" y="0" type="line"/>
+      <point x="500" y="436" type="line"/>
+      <point x="503" y="436" type="line"/>
+      <point x="492" y="0" type="line"/>
       <point x="637" y="0" type="line"/>
       <point x="637" y="588" type="line"/>
       <point x="435" y="588" type="line"/>
@@ -13,11 +16,6 @@
       <point x="218" y="176" type="line"/>
       <point x="228" y="588" type="line"/>
       <point x="83" y="588" type="line"/>
-      <point x="86" y="0" type="line"/>
-      <point x="276" y="0" type="line"/>
-      <point x="500" y="436" type="line"/>
-      <point x="503" y="436" type="line"/>
-      <point x="492" y="0" type="line"/>
     </contour>
   </outline>
   <lib>

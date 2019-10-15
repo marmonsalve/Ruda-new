@@ -2,8 +2,6 @@
 <glyph name="q" format="2">
   <advance width="624"/>
   <unicode hex="0071"/>
-  <anchor x="312" y="0" name="bottom"/>
-  <anchor x="312" y="588" name="top"/>
   <outline>
     <contour>
       <point x="395" y="-166" type="line"/>
@@ -48,6 +46,8 @@
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
       <string>2018/04/27 22:54:01</string>
+      <key>public.markColor</key>
+      <string>0.3216,0.6784,0.4118,1</string>
     </dict>
   </lib>
 </glyph>

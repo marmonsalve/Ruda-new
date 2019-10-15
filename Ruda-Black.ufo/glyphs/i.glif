@@ -1,11 +1,20 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="i" format="2">
-  <advance width="323"/>
+  <advance width="311"/>
   <unicode hex="0069"/>
-  <anchor x="148" y="0" name="bottom"/>
   <outline>
-    <component base="dotlessi"/>
-    <component base="dotaccentcomb" xOffset="74"/>
+    <contour>
+      <point x="78" y="0" type="line"/>
+      <point x="233" y="0" type="line"/>
+      <point x="233" y="588" type="line"/>
+      <point x="78" y="588" type="line"/>
+    </contour>
+    <contour>
+      <point x="74" y="668" type="line"/>
+      <point x="237" y="668" type="line"/>
+      <point x="237" y="776" type="line"/>
+      <point x="74" y="776" type="line"/>
+    </contour>
   </outline>
   <lib>
     <dict>
@@ -16,6 +25,8 @@
         <integer>-1</integer>
         <integer>0</integer>
       </array>
+      <key>public.markColor</key>
+      <string>0.3216,0.6784,0.4118,1</string>
     </dict>
   </lib>
 </glyph>

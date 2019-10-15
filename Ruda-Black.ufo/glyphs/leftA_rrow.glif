@@ -1,19 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="leftArrow" format="2">
-  <advance width="831"/>
+  <advance width="830"/>
   <unicode hex="2190"/>
   <outline>
-    <contour>
-      <point x="591" y="0" type="line"/>
-      <point x="748" y="0" type="line"/>
-      <point x="748" y="703" type="line"/>
-      <point x="48" y="703" type="line"/>
-      <point x="48" y="546" type="line"/>
-      <point x="481" y="550" type="line"/>
-      <point x="99" y="172" type="line"/>
-      <point x="214" y="60" type="line"/>
-      <point x="595" y="445" type="line"/>
-    </contour>
+    <component base="rightArrow" xScale="-1" yScale="-1" xOffset="825" yOffset="703"/>
   </outline>
   <lib>
     <dict>

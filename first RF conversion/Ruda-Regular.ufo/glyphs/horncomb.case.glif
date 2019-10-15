@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="horncomb.case" format="2">
+  <outline>
+    <component base="horncomb" xOffset="36" yOffset="76"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018/04/29 00:25:05</string>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <integer>142</integer>
+    </dict>
+  </lib>
+</glyph>

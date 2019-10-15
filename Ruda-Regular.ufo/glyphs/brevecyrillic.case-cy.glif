@@ -1,8 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="brevecyrillic.case-cy" format="2">
   <advance width="298"/>
-  <anchor x="149" y="695" name="_top"/>
-  <anchor x="149" y="840" name="top"/>
   <outline>
     <contour>
       <point x="149" y="724" type="curve" smooth="yes"/>

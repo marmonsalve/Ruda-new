@@ -2,9 +2,7 @@
 <glyph name="u" format="2">
   <advance width="632"/>
   <unicode hex="0075"/>
-  <anchor x="316" y="0" name="bottom"/>
   <anchor x="535" y="10" name="ogonek"/>
-  <anchor x="316" y="588" name="top"/>
   <anchor x="612" y="588" name="topright"/>
   <outline>
     <contour>
@@ -38,6 +36,8 @@
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
       <string>2018/04/27 22:54:01</string>
+      <key>public.markColor</key>
+      <string>0.3216,0.6784,0.4118,1</string>
     </dict>
   </lib>
 </glyph>

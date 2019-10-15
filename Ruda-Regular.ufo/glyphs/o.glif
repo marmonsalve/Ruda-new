@@ -2,10 +2,8 @@
 <glyph name="o" format="2">
   <advance width="576"/>
   <unicode hex="006F"/>
-  <anchor x="288" y="0" name="bottom"/>
   <anchor x="288" y="291" name="center"/>
   <anchor x="518" y="10" name="ogonek"/>
-  <anchor x="288" y="582" name="top"/>
   <anchor x="556" y="582" name="topright"/>
   <outline>
     <contour>

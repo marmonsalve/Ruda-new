@@ -21,13 +21,13 @@
       <point x="355" y="293" type="line"/>
     </contour>
     <contour>
+      <point x="663" y="0" type="line"/>
       <point x="766" y="0" type="line"/>
       <point x="525" y="289" type="line"/>
       <point x="525" y="294" type="line"/>
       <point x="751" y="582" type="line"/>
       <point x="649" y="582" type="line"/>
       <point x="430" y="293" type="line"/>
-      <point x="663" y="0" type="line"/>
     </contour>
   </outline>
   <lib>

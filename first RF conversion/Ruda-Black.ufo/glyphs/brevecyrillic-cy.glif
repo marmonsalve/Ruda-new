@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="brevecyrillic-cy" format="2">
+  <advance width="358"/>
+  <guideline x="358" y="703" angle="90"/>
+  <anchor x="182" y="588" name="_top"/>
+  <anchor x="182" y="705" name="base"/>
+  <outline>
+    <contour>
+      <point x="182" y="722" type="curve" smooth="yes"/>
+      <point x="301" y="722"/>
+      <point x="347" y="761"/>
+      <point x="358" y="869" type="curve"/>
+      <point x="279" y="874" type="line"/>
+      <point x="266" y="818"/>
+      <point x="239" y="801"/>
+      <point x="182" y="801" type="curve" smooth="yes"/>
+      <point x="123" y="801"/>
+      <point x="92" y="818"/>
+      <point x="79" y="874" type="curve"/>
+      <point x="0" y="869" type="line"/>
+      <point x="8" y="768"/>
+      <point x="55" y="722"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018/04/28 02:30:05</string>
+      <key>public.markColor</key>
+      <string>0.25,0.25,0.25,1</string>
+    </dict>
+  </lib>
+</glyph>

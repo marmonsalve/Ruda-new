@@ -2,9 +2,7 @@
 <glyph name="L" format="2">
   <advance width="446"/>
   <unicode hex="004C"/>
-  <anchor x="249" y="0" name="bottom"/>
   <anchor x="223" y="348" name="center"/>
-  <anchor x="223" y="695" name="top"/>
   <anchor x="426" y="695" name="topright"/>
   <outline>
     <contour>

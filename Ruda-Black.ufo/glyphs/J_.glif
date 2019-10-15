@@ -2,8 +2,6 @@
 <glyph name="J" format="2">
   <advance width="363"/>
   <unicode hex="004A"/>
-  <anchor x="182" y="0" name="bottom"/>
-  <anchor x="182" y="703" name="top"/>
   <outline>
     <contour>
       <point x="75" y="-13" type="curve" smooth="yes"/>
@@ -28,6 +26,8 @@
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
       <string>2018/04/27 22:54:01</string>
+      <key>public.markColor</key>
+      <string>0.3216,0.6784,0.4118,1</string>
     </dict>
   </lib>
 </glyph>

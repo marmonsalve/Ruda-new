@@ -3,9 +3,9 @@
   <advance width="506"/>
   <unicode hex="1EB6"/>
   <outline>
-    <component base="A"/>
-    <component base="brevecomb.case" xOffset="104"/>
     <component base="dotbelowcomb" xOffset="199"/>
+    <component base="brevecomb.case" xOffset="104"/>
+    <component base="A"/>
   </outline>
   <lib>
     <dict>

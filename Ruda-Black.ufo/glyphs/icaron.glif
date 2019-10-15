@@ -1,10 +1,19 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="icaron" format="2">
-  <advance width="303"/>
+  <advance width="311"/>
   <unicode hex="01D0"/>
   <outline>
+    <contour>
+      <point x="119" y="657" type="line"/>
+      <point x="192" y="657" type="line"/>
+      <point x="329" y="762" type="line"/>
+      <point x="296" y="823" type="line"/>
+      <point x="159" y="759" type="line"/>
+      <point x="152" y="759" type="line"/>
+      <point x="15" y="823" type="line"/>
+      <point x="-18" y="762" type="line"/>
+    </contour>
     <component base="dotlessi"/>
-    <component base="caroncomb" xOffset="-52" yOffset="6"/>
   </outline>
   <lib>
     <dict>

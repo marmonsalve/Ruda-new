@@ -2,32 +2,20 @@
 <glyph name="Ii-cy" format="2">
   <advance width="718"/>
   <unicode hex="0418"/>
-  <anchor x="360" y="0" name="bottom"/>
-  <anchor x="349" y="703" name="top"/>
   <outline>
     <contour>
-      <point x="274" y="0" type="line"/>
-      <point x="525" y="574" type="line"/>
-      <point x="426" y="511" type="line"/>
-      <point x="542" y="511" type="line"/>
-      <point x="542" y="703" type="line"/>
-      <point x="443" y="703" type="line"/>
-      <point x="193" y="126" type="line"/>
-      <point x="292" y="189" type="line"/>
-      <point x="176" y="189" type="line"/>
-      <point x="176" y="0" type="line"/>
-    </contour>
-    <contour>
-      <point x="211" y="0" type="line"/>
-      <point x="226" y="703" type="line"/>
-      <point x="83" y="703" type="line"/>
       <point x="83" y="0" type="line"/>
-    </contour>
-    <contour>
-      <point x="507" y="703" type="line"/>
+      <point x="274" y="0" type="line"/>
+      <point x="503" y="525" type="line"/>
+      <point x="498" y="302" type="line"/>
       <point x="492" y="0" type="line"/>
       <point x="635" y="0" type="line"/>
       <point x="635" y="703" type="line"/>
+      <point x="443" y="703" type="line"/>
+      <point x="215" y="177" type="line"/>
+      <point x="219" y="375" type="line"/>
+      <point x="226" y="703" type="line"/>
+      <point x="83" y="703" type="line"/>
     </contour>
   </outline>
   <lib>

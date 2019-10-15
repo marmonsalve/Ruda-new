@@ -2,30 +2,22 @@
 <glyph name="w" format="2">
   <advance width="727"/>
   <unicode hex="0077"/>
-  <anchor x="364" y="0" name="bottom"/>
-  <anchor x="364" y="582" name="top"/>
   <outline>
     <contour>
       <point x="139" y="0" type="line"/>
       <point x="261" y="0" type="line"/>
-      <point x="369" y="477" type="line"/>
-      <point x="323" y="440" type="line"/>
-      <point x="405" y="440" type="line"/>
-      <point x="359" y="477" type="line"/>
+      <point x="361" y="440" type="line"/>
+      <point x="367" y="440" type="line"/>
       <point x="467" y="0" type="line"/>
       <point x="589" y="0" type="line"/>
       <point x="704" y="582" type="line"/>
       <point x="619" y="582" type="line"/>
-      <point x="525" y="28" type="line"/>
-      <point x="570" y="65" type="line"/>
-      <point x="488" y="65" type="line"/>
-      <point x="534" y="28" type="line"/>
+      <point x="531" y="65" type="line"/>
+      <point x="526" y="65" type="line"/>
       <point x="425" y="505" type="line"/>
       <point x="303" y="505" type="line"/>
-      <point x="194" y="28" type="line"/>
-      <point x="240" y="65" type="line"/>
-      <point x="159" y="65" type="line"/>
-      <point x="203" y="28" type="line"/>
+      <point x="202" y="65" type="line"/>
+      <point x="197" y="65" type="line"/>
       <point x="109" y="582" type="line"/>
       <point x="24" y="582" type="line"/>
     </contour>

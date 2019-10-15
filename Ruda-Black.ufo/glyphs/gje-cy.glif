@@ -3,8 +3,8 @@
   <advance width="570"/>
   <unicode hex="0453"/>
   <outline>
-    <component base="acutecomb" xOffset="173"/>
     <component base="ge-cy" xOffset="3"/>
+    <component base="acutecomb" xOffset="173"/>
   </outline>
   <lib>
     <dict>

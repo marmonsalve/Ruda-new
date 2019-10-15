@@ -21,8 +21,54 @@
       <point x="129" y="1"/>
       <point x="84" y="-14"/>
     </contour>
-    <component base="Softsign-cy" xOffset="343"/>
-    <component base="Ge-cy" xScale="-1" xOffset="638"/>
+    <contour>
+      <point x="448" y="1" type="curve"/>
+      <point x="452" y="373" type="line"/>
+      <point x="448" y="695" type="line"/>
+      <point x="532" y="695" type="line"/>
+      <point x="532" y="410" type="line"/>
+      <point x="522" y="424" type="line"/>
+      <point x="542" y="426"/>
+      <point x="597" y="431"/>
+      <point x="657" y="431" type="curve" smooth="yes"/>
+      <point x="776" y="431"/>
+      <point x="875" y="383"/>
+      <point x="875" y="207" type="curve" smooth="yes"/>
+      <point x="875" y="65"/>
+      <point x="807" y="-13"/>
+      <point x="658" y="-13" type="curve" smooth="yes"/>
+      <point x="571" y="-13"/>
+      <point x="448" y="1"/>
+    </contour>
+    <contour>
+      <point x="663" y="359" type="curve" smooth="yes"/>
+      <point x="592" y="359"/>
+      <point x="547" y="351"/>
+      <point x="520" y="346" type="curve"/>
+      <point x="532" y="367" type="line"/>
+      <point x="532" y="22" type="line"/>
+      <point x="521" y="73" type="line"/>
+      <point x="536" y="68"/>
+      <point x="596" y="59"/>
+      <point x="658" y="59" type="curve" smooth="yes"/>
+      <point x="706" y="59"/>
+      <point x="739" y="66"/>
+      <point x="752" y="75" type="curve" smooth="yes"/>
+      <point x="767" y="85"/>
+      <point x="786" y="111"/>
+      <point x="786" y="195" type="curve" smooth="yes"/>
+      <point x="786" y="259"/>
+      <point x="780" y="317"/>
+      <point x="757" y="340" type="curve" smooth="yes"/>
+      <point x="741" y="356"/>
+      <point x="715" y="359"/>
+    </contour>
+    <contour>
+      <point x="213" y="620" type="line"/>
+      <point x="213" y="695" type="line"/>
+      <point x="532" y="695" type="line"/>
+      <point x="459" y="623" type="line"/>
+    </contour>
   </outline>
   <lib>
     <dict>

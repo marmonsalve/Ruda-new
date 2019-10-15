@@ -2,7 +2,7 @@
 <glyph name="Zhedescender-cy" format="2">
   <advance width="969"/>
   <unicode hex="0496"/>
-  <guideline x="993"/>
+  <guideline x="993" identifier="JtKeiMKbqx"/>
   <outline>
     <contour>
       <point x="888" y="-156" type="line"/>

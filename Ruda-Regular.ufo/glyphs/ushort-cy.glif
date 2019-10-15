@@ -2,7 +2,7 @@
 <glyph name="ushort-cy" format="2">
   <advance width="479"/>
   <unicode hex="045E"/>
-  <guideline x="350" y="745" angle="0"/>
+  <guideline x="350" y="745" angle="0" identifier="Nq6uzntfV2"/>
   <outline>
     <component base="u-cy"/>
     <component base="brevecomb" xOffset="91"/>

@@ -2,8 +2,6 @@
 <glyph name="X" format="2">
   <advance width="621"/>
   <unicode hex="0058"/>
-  <anchor x="311" y="0" name="bottom"/>
-  <anchor x="311" y="703" name="top"/>
   <outline>
     <contour>
       <point x="-4" y="0" type="line"/>
@@ -32,6 +30,8 @@
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
       <string>2018/04/28 10:29:43</string>
+      <key>public.markColor</key>
+      <string>0.3216,0.6784,0.4118,1</string>
     </dict>
   </lib>
 </glyph>

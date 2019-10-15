@@ -2,8 +2,6 @@
 <glyph name="z" format="2">
   <advance width="506"/>
   <unicode hex="007A"/>
-  <anchor x="253" y="0" name="bottom"/>
-  <anchor x="253" y="588" name="top"/>
   <outline>
     <contour>
       <point x="11" y="0" type="line"/>
@@ -25,7 +23,7 @@
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
       <string>2018/04/28 09:38:28</string>
       <key>public.markColor</key>
-      <string>0.97,1,0,1</string>
+      <string>0.3216,0.6784,0.4118,1</string>
     </dict>
   </lib>
 </glyph>

@@ -2,8 +2,6 @@
 <glyph name="ka-cy" format="2">
   <advance width="638"/>
   <unicode hex="043A"/>
-  <anchor x="320" y="0" name="bottom"/>
-  <anchor x="302" y="588" name="top"/>
   <outline>
     <contour>
       <point x="451" y="0" type="line"/>
@@ -15,12 +13,12 @@
       <point x="235" y="293" type="line"/>
     </contour>
     <contour>
+      <point x="83" y="0" type="line"/>
       <point x="238" y="0" type="line"/>
       <point x="234" y="293" type="line"/>
       <point x="238" y="588" type="line"/>
       <point x="83" y="588" type="line"/>
       <point x="87" y="293" type="line"/>
-      <point x="83" y="0" type="line"/>
     </contour>
   </outline>
   <lib>

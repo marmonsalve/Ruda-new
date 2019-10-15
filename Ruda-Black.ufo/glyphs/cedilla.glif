@@ -30,6 +30,8 @@
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
       <string>2018/04/27 22:54:01</string>
+      <key>public.markColor</key>
+      <string>1,0.8,0.2,1</string>
     </dict>
   </lib>
 </glyph>

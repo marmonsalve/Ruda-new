@@ -1,8 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="dieresiscomb" format="2">
   <unicode hex="0308"/>
-  <anchor x="191" y="588" name="_top"/>
-  <anchor x="191" y="765" name="top"/>
   <outline>
     <component base="dieresis"/>
   </outline>

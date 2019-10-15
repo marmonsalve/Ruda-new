@@ -1,8 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="dieresis.case" format="2">
   <advance width="392"/>
-  <anchor x="192" y="703" name="_top"/>
-  <anchor x="192" y="866" name="top"/>
   <outline>
     <component base="dieresis" yOffset="95"/>
   </outline>

@@ -3,8 +3,8 @@
   <advance width="303"/>
   <unicode hex="013A"/>
   <outline>
-    <component base="l"/>
     <component base="acutecomb.case" xOffset="6" yOffset="58"/>
+    <component base="l"/>
   </outline>
   <lib>
     <dict>

@@ -1,8 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="tildecombo" format="2">
   <advance width="306"/>
-  <anchor x="153" y="582" name="_top"/>
-  <anchor x="153" y="760" name="top"/>
   <outline>
     <contour>
       <point x="166" y="677" type="curve" smooth="yes"/>

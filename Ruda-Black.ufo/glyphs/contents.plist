@@ -4,8 +4,6 @@
   <dict>
     <key>.notdef</key>
     <string>_notdef.glif</string>
-    <key>.null</key>
-    <string>_null.glif</string>
     <key>A</key>
     <string>A_.glif</string>
     <key>A-cy</key>
@@ -64,8 +62,6 @@
     <string>B_e-cy.glif</string>
     <key>C</key>
     <string>C_.glif</string>
-    <key>CR</key>
-    <string>C_R_.glif</string>
     <key>Cacute</key>
     <string>C_acute.glif</string>
     <key>Ccaron</key>
@@ -300,8 +296,6 @@
     <string>O_circumflextilde.glif</string>
     <key>Odieresis</key>
     <string>O_dieresis.glif</string>
-    <key>Odieresistono</key>
-    <string>O_dieresistono.glif</string>
     <key>Odotbelow</key>
     <string>O_dotbelow.glif</string>
     <key>Ograve</key>

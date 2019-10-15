@@ -4,12 +4,53 @@
   <unicode hex="042A"/>
   <outline>
     <contour>
+      <point x="157" y="1" type="curve"/>
+      <point x="161" y="373" type="line"/>
+      <point x="157" y="695" type="line"/>
+      <point x="241" y="695" type="line"/>
+      <point x="241" y="410" type="line"/>
+      <point x="231" y="424" type="line"/>
+      <point x="251" y="426"/>
+      <point x="306" y="431"/>
+      <point x="366" y="431" type="curve" smooth="yes"/>
+      <point x="485" y="431"/>
+      <point x="584" y="383"/>
+      <point x="584" y="207" type="curve" smooth="yes"/>
+      <point x="584" y="65"/>
+      <point x="516" y="-13"/>
+      <point x="367" y="-13" type="curve" smooth="yes"/>
+      <point x="280" y="-13"/>
+      <point x="157" y="1"/>
+    </contour>
+    <contour>
+      <point x="372" y="359" type="curve" smooth="yes"/>
+      <point x="301" y="359"/>
+      <point x="256" y="351"/>
+      <point x="229" y="346" type="curve"/>
+      <point x="241" y="367" type="line"/>
+      <point x="241" y="22" type="line"/>
+      <point x="230" y="73" type="line"/>
+      <point x="245" y="68"/>
+      <point x="305" y="59"/>
+      <point x="367" y="59" type="curve" smooth="yes"/>
+      <point x="415" y="59"/>
+      <point x="448" y="66"/>
+      <point x="461" y="75" type="curve" smooth="yes"/>
+      <point x="476" y="85"/>
+      <point x="495" y="111"/>
+      <point x="495" y="195" type="curve" smooth="yes"/>
+      <point x="495" y="259"/>
+      <point x="489" y="317"/>
+      <point x="466" y="340" type="curve" smooth="yes"/>
+      <point x="450" y="356"/>
+      <point x="424" y="359"/>
+    </contour>
+    <contour>
       <point x="15" y="620" type="line"/>
       <point x="15" y="695" type="line"/>
       <point x="241" y="695" type="line"/>
       <point x="168" y="623" type="line"/>
     </contour>
-    <component base="Softsign-cy" xOffset="52"/>
   </outline>
   <lib>
     <dict>

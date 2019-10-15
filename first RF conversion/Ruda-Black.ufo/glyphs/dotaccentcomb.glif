@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dotaccentcomb" format="2">
+  <unicode hex="0307"/>
+  <anchor x="78" y="588" name="_top"/>
+  <anchor x="78" y="765" name="top"/>
+  <outline>
+    <component base="dotaccent"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018/03/24 02:25:38</string>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <integer>163</integer>
+      <key>public.markColor</key>
+      <string>0.04,0.57,0.04,1</string>
+    </dict>
+  </lib>
+</glyph>

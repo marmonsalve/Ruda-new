@@ -2,8 +2,6 @@
 <glyph name="softsign-cy" format="2">
   <advance width="632"/>
   <unicode hex="044C"/>
-  <anchor x="312" y="0" name="bottom"/>
-  <anchor x="312" y="761" name="top"/>
   <outline>
     <contour>
       <point x="338" y="-13" type="curve" smooth="yes"/>
@@ -18,6 +16,7 @@
       <point x="229" y="400" type="curve"/>
       <point x="229" y="588" type="line"/>
       <point x="74" y="588" type="line"/>
+      <point x="75" y="296" type="line"/>
       <point x="74" y="31" type="line"/>
       <point x="149" y="8"/>
       <point x="269" y="-13"/>
