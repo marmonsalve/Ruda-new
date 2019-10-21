@@ -4,10 +4,10 @@
   <unicode hex="0497"/>
   <outline>
     <contour>
-      <point x="872" y="-155" type="line"/>
-      <point x="999" y="-155" type="line"/>
-      <point x="999" y="74" type="line"/>
-      <point x="852" y="74" type="line"/>
+      <point x="871" y="-155" type="line"/>
+      <point x="998" y="-155" type="line"/>
+      <point x="998" y="74" type="line"/>
+      <point x="851" y="74" type="line"/>
     </contour>
     <component base="zhe-cy"/>
   </outline>

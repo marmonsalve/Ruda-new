@@ -2,7 +2,7 @@
 <glyph name="circumflexcomb_tildecomb" format="2">
   <outline>
     <component base="circumflexcomb"/>
-    <component base="tildecomb" xOffset="-6" yOffset="178"/>
+    <component base="tildecomb" xOffset="-6" yOffset="177"/>
   </outline>
   <lib>
     <dict>
