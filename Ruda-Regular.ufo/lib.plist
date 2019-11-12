@@ -1372,6 +1372,12 @@ HuH/Che-cy HuH
       <string>tildecombo</string>
       <string>brevecyrillic.case-cy</string>
       <string>brevecyrillic-cy</string>
+      <string>CR</string>
+      <string>nbspace</string>
+      <string>ellipsis</string>
+      <string>fraction</string>
+      <string>foursuperior</string>
+      <string>divisionslash</string>
     </array>
     <key>public.postscriptNames</key>
     <dict>
