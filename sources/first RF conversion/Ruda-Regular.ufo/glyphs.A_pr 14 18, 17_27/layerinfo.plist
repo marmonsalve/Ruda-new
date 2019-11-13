@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+  <dict>
+    <key>color</key>
+    <string>0,0.25,1,0.7</string>
+    <key>lib</key>
+    <dict>
+      <key>com.schriftgestaltung.layerId</key>
+      <string>9FF8AAE1-C5B3-4566-934A-17BFF42E53FC</string>
+      <key>com.schriftgestaltung.layerOrderInGlyph.be-cy</key>
+      <integer>7</integer>
+    </dict>
+  </dict>
+</plist>

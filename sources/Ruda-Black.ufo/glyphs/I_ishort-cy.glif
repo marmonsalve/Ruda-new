@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Iishort-cy" format="2">
+  <advance width="718"/>
+  <unicode hex="0419"/>
+  <outline>
+    <component base="Ii-cy"/>
+    <component base="brevecyrillic.case-cy" xOffset="194" yOffset="9"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>H</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>H</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018/04/27 22:54:01</string>
+      <key>com.schriftgestaltung.componentsAlignment</key>
+      <array>
+        <integer>0</integer>
+        <integer>-1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

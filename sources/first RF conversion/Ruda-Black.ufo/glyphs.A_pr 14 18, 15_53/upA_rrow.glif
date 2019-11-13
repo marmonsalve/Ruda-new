@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="upArrow" format="2">
+  <advance width="831"/>
+  <unicode hex="2191"/>
+  <outline>
+    <contour>
+      <point x="83" y="0" type="line"/>
+      <point x="240" y="0" type="line"/>
+      <point x="236" y="445" type="line"/>
+      <point x="617" y="60" type="line"/>
+      <point x="732" y="172" type="line"/>
+      <point x="349" y="550" type="line"/>
+      <point x="783" y="546" type="line"/>
+      <point x="783" y="703" type="line"/>
+      <point x="83" y="703" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>H</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>H</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018/04/27 22:35:55</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ohorngrave" format="2">
+  <advance width="612"/>
+  <unicode hex="1EDD"/>
+  <outline>
+    <component base="ohorn"/>
+    <component base="gravecomb" xOffset="144"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018/04/29 00:25:12</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="oslash" format="2">
+  <advance width="579"/>
+  <unicode hex="00F8"/>
+  <outline>
+    <contour>
+      <point x="90" y="-45" type="line"/>
+      <point x="166" y="-45" type="line"/>
+      <point x="189" y="6" type="line"/>
+      <point x="442" y="543" type="line"/>
+      <point x="479" y="620" type="line"/>
+      <point x="403" y="620" type="line"/>
+      <point x="383" y="576" type="line"/>
+      <point x="137" y="53" type="line"/>
+    </contour>
+    <component base="o" xOffset="1"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018/04/27 22:54:01</string>
+    </dict>
+  </lib>
+</glyph>

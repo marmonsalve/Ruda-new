@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="acircumflexdotbelow" format="2">
+  <advance width="622"/>
+  <unicode hex="1EAD"/>
+  <outline>
+    <component base="a"/>
+    <component base="circumflexcomb" xOffset="97" yOffset="3"/>
+    <component base="dotbelowcomb" xOffset="226" yOffset="-10"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018/04/29 00:19:11</string>
+      <key>com.schriftgestaltung.componentsAlignment</key>
+      <array>
+        <integer>0</integer>
+        <integer>-1</integer>
+        <integer>-1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Ii-cy" format="2">
+  <advance width="653"/>
+  <unicode hex="0418"/>
+  <outline>
+    <contour>
+      <point x="488" y="317" type="line"/>
+      <point x="485" y="0" type="line"/>
+      <point x="569" y="0" type="line"/>
+      <point x="569" y="695" type="line"/>
+      <point x="485" y="695" type="line"/>
+      <point x="488" y="391" type="line"/>
+    </contour>
+    <contour>
+      <point x="180" y="391" type="line"/>
+      <point x="182" y="695" type="line"/>
+      <point x="99" y="695" type="line"/>
+      <point x="99" y="0" type="line"/>
+      <point x="182" y="0" type="line"/>
+      <point x="179" y="317" type="line"/>
+    </contour>
+    <contour>
+      <point x="182" y="0" type="line"/>
+      <point x="511" y="585" type="line"/>
+      <point x="485" y="695" type="line"/>
+      <point x="162" y="104" type="line"/>
+    </contour>
+    <contour>
+      <point x="216" y="695" type="line"/>
+      <point x="99" y="695" type="line"/>
+      <point x="99" y="0" type="line"/>
+      <point x="181" y="0" type="line"/>
+      <point x="168" y="616" type="line"/>
+      <point x="172" y="616" type="line"/>
+      <point x="449" y="0" type="line"/>
+      <point x="566" y="0" type="line"/>
+      <point x="566" y="695" type="line"/>
+      <point x="484" y="695" type="line"/>
+      <point x="499" y="79" type="line"/>
+      <point x="494" y="79" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>H</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>H</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018/04/28 10:53:48</string>
+    </dict>
+  </lib>
+</glyph>

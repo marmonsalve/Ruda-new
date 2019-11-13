@@ -1,0 +1,69 @@
+# Prefix: Languagesystems
+# automatic
+languagesystem DFLT dflt;
+languagesystem latn dflt;
+languagesystem latn ROM;
+languagesystem latn CRT;
+languagesystem latn MOL;
+languagesystem latn TAT;
+languagesystem latn KAZ;
+languagesystem latn CAT;
+languagesystem latn AZE;
+languagesystem latn TRK;
+
+
+feature aalt {
+# automatic
+feature locl;
+feature sups;
+feature frac;
+feature ordn;
+
+} aalt;
+
+feature locl {
+# automatic
+script latn;
+language ROM;
+sub Scedilla by Scommaaccent;
+sub scedilla by scommaaccent;
+language CRT;
+sub i by idotaccent;
+language MOL;
+sub Scedilla by Scommaaccent;
+sub scedilla by scommaaccent;
+language TAT;
+sub i by idotaccent;
+language KAZ;
+sub i by idotaccent;
+language CAT;
+sub  l' periodcentered' l by ldot;
+language AZE;
+sub i by idotaccent;
+language TRK;
+sub i by idotaccent;
+
+} locl;
+
+feature sups {
+# automatic
+sub one by onesuperior;
+sub two by twosuperior;
+sub three by threesuperior;
+
+} sups;
+
+feature frac {
+# automatic
+sub one slash four by onequarter;
+sub one slash two by onehalf;
+sub three slash four by threequarters;
+
+} frac;
+
+feature ordn {
+# automatic
+sub [zero one two three four five six seven eight nine] [A a]' by ordfeminine;
+sub [zero one two three four five six seven eight nine] [O o]' by ordmasculine;
+
+} ordn;

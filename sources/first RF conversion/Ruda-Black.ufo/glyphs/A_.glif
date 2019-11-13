@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="A" format="2">
+  <advance width="573"/>
+  <unicode hex="0041"/>
+  <anchor x="287" y="0" name="bottom"/>
+  <anchor x="552" y="10" name="ogonek"/>
+  <anchor x="287" y="703" name="top"/>
+  <outline>
+    <contour>
+      <point x="-11" y="0" type="line"/>
+      <point x="151" y="0" type="line"/>
+      <point x="205" y="224" type="line"/>
+      <point x="118" y="156" type="line"/>
+      <point x="450" y="156" type="line"/>
+      <point x="363" y="224" type="line"/>
+      <point x="417" y="-1" type="line"/>
+      <point x="579" y="0" type="line"/>
+      <point x="386" y="703" type="line"/>
+      <point x="182" y="703" type="line"/>
+    </contour>
+    <contour>
+      <point x="202" y="220" type="line"/>
+      <point x="297" y="625" type="line"/>
+      <point x="211" y="557" type="line"/>
+      <point x="357" y="557" type="line"/>
+      <point x="271" y="625" type="line"/>
+      <point x="366" y="220" type="line"/>
+      <point x="420" y="288" type="line"/>
+      <point x="148" y="288" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018/04/28 10:22:35</string>
+    </dict>
+  </lib>
+</glyph>

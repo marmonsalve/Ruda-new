@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="downArrow" format="2">
+  <advance width="905"/>
+  <unicode hex="2193"/>
+  <outline>
+    <component base="rightArrow" xScale="-1" xOffset="905"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018/04/14 18:53:32</string>
+    </dict>
+  </lib>
+</glyph>

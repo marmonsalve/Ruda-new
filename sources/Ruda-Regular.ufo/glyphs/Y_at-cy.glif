@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Yat-cy" format="2">
+  <advance width="643"/>
+  <unicode hex="0462"/>
+  <outline>
+    <contour>
+      <point x="403" y="596" type="line"/>
+      <point x="403" y="522" type="line"/>
+      <point x="218" y="525" type="line"/>
+      <point x="32" y="522" type="line"/>
+      <point x="32" y="596" type="line"/>
+    </contour>
+    <component base="Softsign-cy" xOffset="63"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018/04/30 00:27:29</string>
+    </dict>
+  </lib>
+</glyph>

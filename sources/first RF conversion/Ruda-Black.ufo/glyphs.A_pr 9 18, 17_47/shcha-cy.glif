@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="shcha-cy" format="2">
+  <advance width="1018"/>
+  <unicode hex="0449"/>
+  <outline>
+    <contour>
+      <point x="442" y="0" type="line"/>
+      <point x="857" y="0" type="line"/>
+      <point x="857" y="144" type="line"/>
+      <point x="440" y="142" type="line"/>
+    </contour>
+    <contour>
+      <point x="897" y="588" type="line"/>
+      <point x="742" y="588" type="line"/>
+      <point x="742" y="0" type="line"/>
+      <point x="897" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="829" y="-101" type="line"/>
+      <point x="949" y="-101" type="line"/>
+      <point x="949" y="74" type="line"/>
+      <point x="809" y="74" type="line"/>
+    </contour>
+    <contour>
+      <point x="108" y="0" type="line"/>
+      <point x="523" y="0" type="line"/>
+      <point x="523" y="144" type="line"/>
+      <point x="106" y="142" type="line"/>
+    </contour>
+    <contour>
+      <point x="74" y="588" type="line"/>
+      <point x="74" y="0" type="line"/>
+      <point x="229" y="0" type="line"/>
+      <point x="229" y="588" type="line"/>
+    </contour>
+    <contour>
+      <point x="563" y="588" type="line"/>
+      <point x="408" y="588" type="line"/>
+      <point x="408" y="0" type="line"/>
+      <point x="563" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018/04/28 09:52:07</string>
+      <key>public.markColor</key>
+      <string>0.5,0.09,0.79,1</string>
+    </dict>
+  </lib>
+</glyph>

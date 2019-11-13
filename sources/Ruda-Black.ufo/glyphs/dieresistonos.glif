@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dieresistonos" format="2">
+  <advance width="372"/>
+  <unicode hex="0385"/>
+  <outline>
+    <component base="dieresiscomb"/>
+    <component base="tonos" xOffset="24" yOffset="177"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018/04/15 04:47:11</string>
+    </dict>
+  </lib>
+</glyph>

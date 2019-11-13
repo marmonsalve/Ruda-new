@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="yeru-cy" format="2">
+  <advance width="929"/>
+  <unicode hex="044B"/>
+  <outline>
+    <contour>
+      <point x="700" y="0" type="line"/>
+      <point x="855" y="0" type="line"/>
+      <point x="850" y="322" type="line"/>
+      <point x="855" y="588" type="line"/>
+      <point x="700" y="588" type="line"/>
+      <point x="705" y="304" type="line"/>
+    </contour>
+    <component base="softsign-cy" xOffset="5"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>n</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>l</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018/04/28 00:09:47</string>
+      <key>public.markColor</key>
+      <string>0.75,0.75,0.75,1</string>
+    </dict>
+  </lib>
+</glyph>

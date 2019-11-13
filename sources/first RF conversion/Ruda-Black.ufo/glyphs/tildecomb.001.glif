@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="tildecomb.001" format="2">
+  <anchor x="204" y="588" name="_top"/>
+  <anchor x="204" y="765" name="top"/>
+  <outline>
+    <component base="tilde"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018/04/22 21:18:20</string>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <integer>407</integer>
+      <key>public.markColor</key>
+      <string>0.04,0.57,0.04,1</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Dzhe-cy" format="2">
+  <advance width="628"/>
+  <unicode hex="040F"/>
+  <outline>
+    <contour>
+      <point x="99" y="0" type="line"/>
+      <point x="529" y="0" type="line"/>
+      <point x="529" y="695" type="line"/>
+      <point x="446" y="695" type="line"/>
+      <point x="450" y="74" type="line"/>
+      <point x="178" y="74" type="line"/>
+      <point x="183" y="695" type="line"/>
+      <point x="99" y="695" type="line"/>
+    </contour>
+    <contour>
+      <point x="290" y="-124" type="line"/>
+      <point x="364" y="-124" type="line"/>
+      <point x="364" y="74" type="line"/>
+      <point x="267" y="74" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>H</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>H</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018/04/28 09:58:25</string>
+    </dict>
+  </lib>
+</glyph>
