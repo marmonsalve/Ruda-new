@@ -8,10 +8,6 @@
   </axes>
   <sources>
     <source filename="Ruda-Regular.ufo" name="Ruda Regular" familyname="Ruda" stylename="Regular">
-      <lib copy="1"/>
-      <groups copy="1"/>
-      <features copy="1"/>
-      <info copy="1"/>
       <location>
         <dimension name="Weight" xvalue="100"/>
       </location>
@@ -70,6 +66,13 @@
           <string>Medium (normal)</string>
         </dict>
       </lib>
+    </instance>
+    <instance familyname="Ruda" stylename="Bold" filename="instance_ufos/Ruda-Bold.ufo">
+      <location>
+        <dimension name="Weight" xvalue="190"/>
+      </location>
+      <kerning/>
+      <info/>
     </instance>
   </instances>
   <lib>
