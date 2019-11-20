@@ -3,35 +3,14 @@
 set -e
 
 
-echo "Generating Static fonts"
-mkdir -p ../fonts
-fontmake -m Ruda.designspace -i -o ttf --output-dir ../fonts/ttf/
-fontmake -m Ruda.designspace -i -o otf --output-dir ../fonts/otf/
+
 
 
 echo "Generating VFs"
 mkdir -p ../fonts/vf
 fontmake -m Ruda.designspace -o variable --output-path ../fonts/vf/Ruda[wght].ttf
 
-
 rm -rf master_ufo/ instance_ufo/ instance_ufos/*
-
-
-
-echo "Post processing"
-ttfs=$(ls ../fonts/ttf/*.ttf)
-for ttf in $ttfs
-do
-	gftools fix-dsig -f $ttf;
-	ttfautohint $ttf "$ttf.fix";
-	mv "$ttf.fix" $ttf;
-done
-
-for ttf in $ttfs
-do
-	gftools fix-hinting $ttf;
-	#mv "$ttf.fix" $ttf;
-done
 
 
 
@@ -72,4 +51,26 @@ do
   gftools fix-hinting $font
   mv $font.fix $font;
 done
+
+
+
+# echo "Generating Static fonts"
+# mkdir -p ../fonts
+# fontmake -m Ruda.designspace -i -o ttf --output-dir ../fonts/ttf/
+# fontmake -m Ruda.designspace -i -o otf --output-dir ../fonts/otf/
+
+# echo "Post processing"
+# ttfs=$(ls ../fonts/ttf/*.ttf)
+# for ttf in $ttfs
+# do
+# 	gftools fix-dsig -f $ttf;
+# 	ttfautohint $ttf "$ttf.fix";
+# 	mv "$ttf.fix" $ttf;
+# done
+
+# for ttf in $ttfs
+# do
+# 	gftools fix-hinting $ttf;
+# 	#mv "$ttf.fix" $ttf;
+# done
 
