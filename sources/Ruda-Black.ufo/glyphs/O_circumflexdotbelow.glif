@@ -4,7 +4,7 @@
   <unicode hex="1ED8"/>
   <outline>
     <component base="O"/>
-    <component base="dotbelowcomb" xScale="-1" yScale="-1" xOffset="429" yOffset="-205"/>
+    <component base="dotbelowcomb" xOffset="271" yOffset="-1"/>
     <component base="circumflexcomb.case" xOffset="147" yOffset="-16"/>
   </outline>
   <lib>
