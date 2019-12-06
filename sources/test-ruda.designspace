@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<designspace format="4.0">
+  <axes>
+    <axis tag="wght" name="weight" minimum="0" maximum="100" default="0"/>
+  </axes>
+  <sources>
+    <source filename="Ruda-Black.ufo" familyname="Ruda" stylename="Black">
+      <location>
+        <dimension name="weight" xvalue="100"/>
+      </location>
+    </source>
+    <source filename="Ruda-Regular.ufo" familyname="Ruda" stylename="Regular">
+      <lib copy="1"/>
+      <groups copy="1"/>
+      <features copy="1"/>
+      <info copy="1"/>
+      <location>
+        <dimension name="weight" xvalue="0"/>
+      </location>
+    </source>
+  </sources>
+  <instances>
+    <instance familyname="Ruda" stylename="Bold" filename="instances/Ruda-Bold.ufo">
+      <location>
+        <dimension name="weight" xvalue="45"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+  </instances>
+</designspace>
+
+

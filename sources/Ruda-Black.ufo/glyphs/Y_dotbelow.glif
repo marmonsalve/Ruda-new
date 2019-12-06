@@ -2,10 +2,10 @@
 <glyph name="Ydotbelow" format="2">
   <advance width="580"/>
   <unicode hex="1EF4"/>
-  <guideline x="209"/>
+  <guideline x="209" identifier="WW42PElVwl"/>
   <outline>
     <component base="Y"/>
-    <component base="dotbelowcomb" xScale="-1" yScale="-1" xOffset="367" yOffset="-205"/>
+    <component base="dotbelowcomb" xOffset="209" yOffset="-1"/>
   </outline>
   <lib>
     <dict>
