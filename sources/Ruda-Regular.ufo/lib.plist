@@ -1378,6 +1378,8 @@ HuH/Che-cy HuH
       <string>fraction</string>
       <string>foursuperior</string>
       <string>divisionslash</string>
+      <string>caroncmbalt</string>
+      <string>caroncmbalt.case</string>
     </array>
     <key>public.postscriptNames</key>
     <dict>
