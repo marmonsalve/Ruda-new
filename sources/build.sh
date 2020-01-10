@@ -20,8 +20,9 @@ echo "Post processing VFs"
 for vf in $vfs
 do
 	gftools fix-dsig -f $vf;
-	ttfautohint --stem-width-mode nnn $vf "$vf.fix";
-	mv "$vf.fix" $vf;
+	# disable hinting
+	#ttfautohint --stem-width-mode nnn $vf "$vf.fix";
+	#mv "$vf.fix" $vf;
 done
 
 
@@ -48,8 +49,8 @@ echo "Fixing Hinting"
 FONTSVF=$(ls ../fonts/vf/*.ttf)
 for font in $FONTSVF
 do
-  gftools fix-hinting $font
-  mv $font.fix $font;
+  gftools fix-nonhinting $font "$font.fix"
+  if [ -f "$font.fix" ]; then mv "$font.fix" $vf; fi
 done
 
 
@@ -66,13 +67,14 @@ ttfs=$(ls ../fonts/ttf/*.ttf)
 for ttf in $ttfs
 do
 	gftools fix-dsig -f $ttf;
-	ttfautohint $ttf "$ttf.fix";
-	mv "$ttf.fix" $ttf;
+	# disable hinting
+	#ttfautohint $ttf "$ttf.fix";
+	#mv "$ttf.fix" $ttf;
 done
 
 for ttf in $ttfs
 do
-	gftools fix-hinting $ttf;
-	#mv "$ttf.fix" $ttf;
+	gftools fix-nonhinting $ttf "$ttf.fix";
+	if [ -f "$ttf.fix" ]; then mv "$ttf.fix" $ttf; fi
 done
 
