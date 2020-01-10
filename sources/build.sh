@@ -78,3 +78,5 @@ do
 	if [ -f "$ttf.fix" ]; then mv "$ttf.fix" $ttf; fi
 done
 
+rm -f ../fonts/vf/*gasp.ttf
+rm -f ../fonts/ttf/*gasp.ttf
