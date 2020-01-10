@@ -95,8 +95,6 @@
           <string>braceleft</string>
           <string>braceright</string>
           <string>ampersand</string>
-          <string>.null</string>
-          <string>CR</string>
           <string>ntilde</string>
           <string>aacute</string>
           <string>equal</string>
@@ -371,8 +369,8 @@
           <string>aogonek</string>
           <string>cacute</string>
           <string>ccaron</string>
-          <string>cdotaccent</string>
           <string>dcaron</string>
+          <string>cdotaccent</string>
           <string>dcircumflexbelow</string>
           <string>dcroat</string>
           <string>ecaron</string>
@@ -645,6 +643,14 @@
           <string>tildecombo</string>
           <string>brevecyrillic.case-cy</string>
           <string>brevecyrillic-cy</string>
+          <string>CR</string>
+          <string>nbspace</string>
+          <string>ellipsis</string>
+          <string>fraction</string>
+          <string>foursuperior</string>
+          <string>divisionslash</string>
+          <string>caroncmbalt</string>
+          <string>caroncmbalt.case</string>
         </array>
         <key>type</key>
         <string>glyphList</string>
@@ -1102,8 +1108,8 @@ HuH/Che-cy HuH
       <string>aogonek</string>
       <string>cacute</string>
       <string>ccaron</string>
-      <string>cdotaccent</string>
       <string>dcaron</string>
+      <string>cdotaccent</string>
       <string>dcircumflexbelow</string>
       <string>dcroat</string>
       <string>ecaron</string>
@@ -1382,6 +1388,8 @@ HuH/Che-cy HuH
       <string>fraction</string>
       <string>foursuperior</string>
       <string>divisionslash</string>
+      <string>caroncmbalt</string>
+      <string>caroncmbalt.case</string>
     </array>
     <key>public.postscriptNames</key>
     <dict>

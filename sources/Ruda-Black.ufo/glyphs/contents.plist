@@ -602,6 +602,10 @@
     <string>cacute.glif</string>
     <key>caron</key>
     <string>caron.glif</string>
+    <key>caroncmbalt</key>
+    <string>caroncmbalt.glif</string>
+    <key>caroncmbalt.case</key>
+    <string>caroncmbalt.case.glif</string>
     <key>caroncomb</key>
     <string>caroncomb.glif</string>
     <key>caroncomb.case</key>

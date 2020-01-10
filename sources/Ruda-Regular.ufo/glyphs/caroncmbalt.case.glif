@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="caroncmbalt.case" format="2">
+  <outline>
+    <contour>
+      <point x="47" y="496.0" type="line"/>
+      <point x="100" y="496.0" type="line"/>
+      <point x="118" y="695.0" type="line"/>
+      <point x="32" y="695.0" type="line"/>
+    </contour>
+  </outline>
+</glyph>
