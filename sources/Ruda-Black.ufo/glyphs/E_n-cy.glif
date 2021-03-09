@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="En-cy" format="2">
+  <advance width="706"/>
+  <unicode hex="041D"/>
+  <outline>
+    <component base="H"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018/04/28 03:25:57</string>
+    </dict>
+  </lib>
+</glyph>

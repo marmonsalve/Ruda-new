@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ntilde" format="2">
+  <advance width="601"/>
+  <unicode hex="00F1"/>
+  <outline>
+    <component base="n"/>
+    <component base="tildecomb" xOffset="148"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018/04/28 09:20:48</string>
+    </dict>
+  </lib>
+</glyph>

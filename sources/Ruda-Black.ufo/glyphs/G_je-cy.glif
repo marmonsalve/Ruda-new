@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Gje-cy" format="2">
+  <advance width="505"/>
+  <unicode hex="0403"/>
+  <outline>
+    <component base="Ge-cy"/>
+    <component base="acutecomb.case" xOffset="135"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>H</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>Ge-cy</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018/04/28 03:26:31</string>
+    </dict>
+  </lib>
+</glyph>

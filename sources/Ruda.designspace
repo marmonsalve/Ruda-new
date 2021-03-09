@@ -1,0 +1,151 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<designspace format="4.0">
+  <axes>
+    <axis tag="wght" name="Weight" minimum="400" maximum="900" default="400">
+      <map input="400" output="100"/>
+      <map input="700" output="190"/>
+      <map input="900" output="300"/>
+    </axis>
+  </axes>
+  <sources>
+    <source filename="Ruda-Regular.ufo" name="Ruda Regular" familyname="Ruda" stylename="Regular">
+      <location>
+        <dimension name="Weight" xvalue="100"/>
+      </location>
+    </source>
+    <source filename="Ruda-Black.ufo" name="Ruda Black" familyname="Ruda" stylename="Black">
+      <location>
+        <dimension name="Weight" xvalue="300"/>
+      </location>
+    </source>
+  </sources>
+  <instances>
+    <instance name="Ruda Regular" familyname="Ruda" stylename="Regular" filename="instance_ufos/Ruda-Regular.ufo">
+      <location>
+        <dimension name="Weight" xvalue="100"/>
+      </location>
+      <kerning/>
+      <info/>
+      <lib>
+        <dict>
+          <key>com.schriftgestaltung.export</key>
+          <true/>
+          <key>com.schriftgestaltung.intanceInterpolations</key>
+          <dict>
+            <key>UUID0</key>
+            <integer>1</integer>
+          </dict>
+          <key>com.schriftgestaltung.manualInterpolation</key>
+          <false/>
+          <key>com.schriftgestaltung.weight</key>
+          <string>Regular</string>
+          <key>com.schriftgestaltung.width</key>
+          <string>Medium (normal)</string>
+        </dict>
+      </lib>
+    </instance>
+    <instance name="Ruda Black" familyname="Ruda" stylename="Black" filename="instance_ufos/Ruda-Black.ufo" stylemapfamilyname="Ruda SemiBold" stylemapstylename="bold">
+      <location>
+        <dimension name="Weight" xvalue="300"/>
+      </location>
+      <kerning/>
+      <info/>
+      <lib>
+        <dict>
+          <key>com.schriftgestaltung.export</key>
+          <true/>
+          <key>com.schriftgestaltung.intanceInterpolations</key>
+          <dict>
+            <key>DBD97FAF-1301-49A4-893D-DCFDD4490496</key>
+            <integer>1</integer>
+          </dict>
+          <key>com.schriftgestaltung.manualInterpolation</key>
+          <false/>
+          <key>com.schriftgestaltung.weight</key>
+          <string>Black</string>
+          <key>com.schriftgestaltung.width</key>
+          <string>Medium (normal)</string>
+        </dict>
+      </lib>
+    </instance>
+    <instance familyname="Ruda" stylename="Bold" filename="instance_ufos/Ruda-Bold.ufo">
+      <location>
+        <dimension name="Weight" xvalue="190"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+  </instances>
+  <lib>
+    <dict>
+      <key>GSDimensionPlugin.Dimensions</key>
+      <dict>
+        <key>8229E385-79CD-4EEA-AA47-9796420D8134</key>
+        <dict>
+          <key>HH</key>
+          <string>101</string>
+          <key>HV</key>
+          <string>117</string>
+          <key>OH</key>
+          <string>104</string>
+          <key>OV</key>
+          <string>122</string>
+          <key>nV</key>
+          <string>116</string>
+          <key>nd</key>
+          <string>36</string>
+          <key>oH</key>
+          <string>93</string>
+          <key>oV</key>
+          <string>119</string>
+          <key>tH</key>
+          <string>90</string>
+        </dict>
+        <key>DBD97FAF-1301-49A4-893D-DCFDD4490496</key>
+        <dict>
+          <key>HH</key>
+          <string>134</string>
+          <key>HV</key>
+          <string>157</string>
+          <key>OH</key>
+          <string>138</string>
+          <key>OV</key>
+          <string>163</string>
+          <key>nV</key>
+          <string>155</string>
+          <key>nd</key>
+          <string>135</string>
+          <key>oH</key>
+          <string>118</string>
+          <key>oV</key>
+          <string>158</string>
+          <key>tH</key>
+          <string>119</string>
+        </dict>
+        <key>UUID0</key>
+        <dict>
+          <key>HH</key>
+          <string>74</string>
+          <key>HV</key>
+          <string>84</string>
+          <key>OH</key>
+          <string>76</string>
+          <key>OV</key>
+          <string>89</string>
+          <key>nV</key>
+          <string>83</string>
+          <key>nd</key>
+          <string>79</string>
+          <key>oH</key>
+          <string>72</string>
+          <key>oV</key>
+          <string>85</string>
+          <key>tH</key>
+          <string>67</string>
+        </dict>
+      </dict>
+      <key>GSDontShowVersionAlert</key>
+      <integer>1</integer>
+    </dict>
+  </lib>
+</designspace>

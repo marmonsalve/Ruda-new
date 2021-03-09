@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ustraitstroke-cy" format="2">
+  <advance width="540"/>
+  <outline>
+    <contour>
+      <point x="184" y="-166" type="line"/>
+      <point x="345" y="-166" type="line"/>
+      <point x="345" y="98" type="line"/>
+      <point x="317" y="-34" type="line"/>
+      <point x="541" y="588" type="line"/>
+      <point x="382" y="588" type="line"/>
+      <point x="259" y="128" type="line"/>
+      <point x="347" y="195" type="line"/>
+      <point x="201" y="195" type="line"/>
+      <point x="289" y="128" type="line"/>
+      <point x="168" y="588" type="line"/>
+      <point x="-4" y="588" type="line"/>
+      <point x="209" y="-34" type="line"/>
+      <point x="184" y="98" type="line"/>
+    </contour>
+  </outline>
+</glyph>

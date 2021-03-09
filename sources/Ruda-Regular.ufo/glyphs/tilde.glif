@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="tilde" format="2">
+  <advance width="306"/>
+  <unicode hex="02DC"/>
+  <outline>
+    <contour>
+      <point x="234" y="675" type="curve" smooth="yes"/>
+      <point x="280" y="675"/>
+      <point x="306" y="701"/>
+      <point x="306" y="776" type="curve"/>
+      <point x="253" y="783" type="line"/>
+      <point x="253" y="783"/>
+      <point x="238" y="738"/>
+      <point x="225" y="738" type="curve" smooth="yes"/>
+      <point x="205" y="738"/>
+      <point x="118" y="786"/>
+      <point x="73" y="786" type="curve" smooth="yes"/>
+      <point x="27" y="786"/>
+      <point x="0" y="761"/>
+      <point x="0" y="685" type="curve"/>
+      <point x="52" y="679" type="line"/>
+      <point x="52" y="679"/>
+      <point x="66" y="725"/>
+      <point x="79" y="725" type="curve" smooth="yes"/>
+      <point x="98" y="725"/>
+      <point x="190" y="675"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018/04/27 22:54:01</string>
+      <key>public.markColor</key>
+      <string>1,0.8,0.2,1</string>
+    </dict>
+  </lib>
+</glyph>

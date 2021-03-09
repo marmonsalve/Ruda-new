@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="brevecomb_hookabovecomb" format="2">
+  <outline>
+    <component base="brevecomb"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018/04/15 05:00:21</string>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <integer>388</integer>
+    </dict>
+  </lib>
+</glyph>

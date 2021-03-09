@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Ii-cy" format="2">
+  <advance width="690"/>
+  <unicode hex="0418"/>
+  <outline>
+    <contour>
+      <point x="105" y="0" type="line"/>
+      <point x="202" y="0" type="line"/>
+      <point x="502" y="616" type="line"/>
+      <point x="504" y="329" type="line"/>
+      <point x="501" y="0" type="line"/>
+      <point x="585" y="0" type="line"/>
+      <point x="585" y="695" type="line"/>
+      <point x="459" y="695" type="line"/>
+      <point x="188" y="141" type="line"/>
+      <point x="186" y="329" type="line"/>
+      <point x="189" y="695" type="line"/>
+      <point x="105" y="695" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>H</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>H</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018/04/28 10:53:48</string>
+    </dict>
+  </lib>
+</glyph>

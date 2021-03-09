@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ohungarumlaut" format="2">
+  <advance width="612"/>
+  <unicode hex="0151"/>
+  <outline>
+    <component base="o"/>
+    <component base="hungarumlautcomb" xOffset="140" yOffset="3"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018/04/27 22:54:01</string>
+    </dict>
+  </lib>
+</glyph>

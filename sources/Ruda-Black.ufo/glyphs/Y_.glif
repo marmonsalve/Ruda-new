@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Y" format="2">
+  <advance width="580"/>
+  <unicode hex="0059"/>
+  <anchor x="20" y="703" name="topleft"/>
+  <outline>
+    <contour>
+      <point x="209" y="0" type="line"/>
+      <point x="368" y="0" type="line"/>
+      <point x="366" y="253" type="line"/>
+      <point x="582" y="703" type="line"/>
+      <point x="414" y="703" type="line"/>
+      <point x="292" y="381" type="line"/>
+      <point x="286" y="381" type="line"/>
+      <point x="164" y="703" type="line"/>
+      <point x="-4" y="703" type="line"/>
+      <point x="212" y="253" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018/04/28 10:30:01</string>
+      <key>public.markColor</key>
+      <string>0.3216,0.6784,0.4118,1</string>
+    </dict>
+  </lib>
+</glyph>

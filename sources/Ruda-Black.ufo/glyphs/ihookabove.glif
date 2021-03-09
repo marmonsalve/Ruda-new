@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ihookabove" format="2">
+  <advance width="311"/>
+  <unicode hex="1EC9"/>
+  <anchor x="363" y="10" name="ogonek"/>
+  <outline>
+    <component base="dotlessi"/>
+    <component base="hookabovecomb" xOffset="69"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018/04/29 01:31:37</string>
+      <key>public.markColor</key>
+      <string>0.9619,0.0201,0.2081,1</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="hungarumlautcomb.case" format="2">
+  <outline>
+    <contour>
+      <point x="11" y="750" type="line"/>
+      <point x="282" y="800" type="line"/>
+      <point x="254" y="910" type="line"/>
+      <point x="-10" y="833" type="line"/>
+    </contour>
+    <contour>
+      <point x="346" y="750" type="line"/>
+      <point x="620" y="800" type="line"/>
+      <point x="592" y="910" type="line"/>
+      <point x="325" y="833" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018/04/15 04:38:41</string>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <integer>610</integer>
+      <key>public.markColor</key>
+      <string>0.18,0.16,0.78,1</string>
+    </dict>
+  </lib>
+</glyph>
