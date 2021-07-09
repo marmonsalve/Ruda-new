@@ -19,6 +19,7 @@ jobs:
     - name: Check with fontbakery
       run: make test
       continue-on-error: true
+    - name: Generate proofs
       run: make proof
     - name: Gather
       run: |
